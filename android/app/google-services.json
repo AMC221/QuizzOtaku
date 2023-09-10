@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "165332961775",
+    "project_id": "quizzotaku",
+    "storage_bucket": "quizzotaku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165332961775:android:a7c355db7be0629c4b8e1a",
+        "android_client_info": {
+          "package_name": "com.example.quizzflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165332961775-ivmuv4l5451pricqi3ogd1o7mbi7pe9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl91T-SEeGetnmy23d4JBWgsy657PjIqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165332961775-ivmuv4l5451pricqi3ogd1o7mbi7pe9p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165332961775-isfkom5mveu2m7j32app7rk0dq64b6cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizzflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
